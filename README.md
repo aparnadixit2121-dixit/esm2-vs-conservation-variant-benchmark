@@ -92,7 +92,11 @@ git clone https://github.com/aparnadixit2121-dixit/esm2-vs-conservation-variant-
 
 Open each notebook in Google Colab or Jupyter and run top to bottom:
 
-notebooks/01_data_curation.ipynb notebooks/02_conservation_scoring.ipynb notebooks/03_esm2_scoring.ipynb notebooks/04_modeling_comparison.ipynb notebooks/05_error_analysis.ipynb
+notebooks/ 01_data_curation.ipynb 
+notebooks/ 02_conservation_scoring.ipynb 
+notebooks/03_esm2_scoring.ipynb 
+notebooks/04_modeling_comparison.ipynb 
+notebooks/05_error_analysis.ipynb
 
 Notebook 03 requires a GPU runtime (Colab's free T4 tier is sufficient). Each notebook reads its inputs from and writes its outputs to a shared data directory (Google Drive if run in Colab), so they must be run in order the first time through.
 
