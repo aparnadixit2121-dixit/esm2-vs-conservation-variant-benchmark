@@ -31,6 +31,7 @@ All notebooks, data, and results are stored at the repository root for simplicit
 03_esm2_scoring.ipynb
 04_modeling_comparison.ipynb
 05_error_analysis.ipynb
+
 data_processed/          Cleaned variant tables, conservation and ESM-2 scores
 results_figures/          roc_curves.png, pr_curves.png, score_correlation.png
 results_tables/           model_performance.tsv, gene_level_breakdown.tsv,
