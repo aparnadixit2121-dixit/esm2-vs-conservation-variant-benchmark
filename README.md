@@ -92,7 +92,7 @@ git clone https://github.com/aparnadixit2121-dixit/esm2-vs-conservation-variant-
 
 Open each notebook in Google Colab or Jupyter and run top to bottom:
 
-notebooks/ 01_data_curation.ipynb 
+01_data_curation.ipynb 
 notebooks/ 02_conservation_scoring.ipynb 
 notebooks/03_esm2_scoring.ipynb 
 notebooks/04_modeling_comparison.ipynb 
